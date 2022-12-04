@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: pun-api
-        image: ghcr.io/peempeimn/devops-go-example:6237aefd7e43d50aa517b5ebc93242ae388122dc
+        image: ghcr.io/peempeimn/devops-go-example:6be3bdfb0f8d14c3bccc8f9fa0a7fb8722434d5d
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
